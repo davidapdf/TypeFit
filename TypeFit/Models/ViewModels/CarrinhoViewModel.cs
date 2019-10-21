@@ -2,7 +2,7 @@
 using System.Linq;
 using TypeFit.Models;
 
-namespace TypeFit.Repositories
+namespace TypeFit.Models.ViewModels
 {
     public class CarrinhoViewModel
     {

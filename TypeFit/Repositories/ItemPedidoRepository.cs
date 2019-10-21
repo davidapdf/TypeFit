@@ -4,8 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TypeFit.Models;
+using TypeFit.Repositories;
 
-namespace TypeFit.Repositories
+namespace TypeFit
 {
     public interface IItemPedidoRepository
     {

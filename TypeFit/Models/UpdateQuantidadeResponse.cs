@@ -1,6 +1,7 @@
 ﻿using TypeFit.Models;
+using TypeFit.Models.ViewModels;
 
-namespace TypeFit.Repositories
+namespace TypeFit.Models
 {
     public class UpdateQuantidadeResponse
     {
